@@ -1,6 +1,5 @@
-$python
 # HBAP-week-3
-
+$python
 Week 3 HW
 def main() :
     print ("She said, \"", end="")
